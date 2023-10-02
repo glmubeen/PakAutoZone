@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62106410168",
+    "firebase_url": "https://pakautozone-23da2-default-rtdb.firebaseio.com",
+    "project_id": "pakautozone-23da2",
+    "storage_bucket": "pakautozone-23da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62106410168:android:92f050b7c117e453ebe84d",
+        "android_client_info": {
+          "package_name": "com.pakautozone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62106410168-timdtqcnh7vo2ehrhp1t58gne5ip2ja0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pakautozone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "62106410168-bequnkmg5t21umf9hbtmfjv5rv5k2nra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFy4C6qKpvM_a8sWd6q80PIEycBRL1Fto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62106410168-bequnkmg5t21umf9hbtmfjv5rv5k2nra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62106410168-en8sm2d9bd34l2mses1t8ip67b5gd1re.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geekslogicity.pakautozone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
